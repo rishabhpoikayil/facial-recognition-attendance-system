@@ -1,0 +1,12 @@
+.image-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px; /* Optional: Add padding around the image */
+  }
+  
+  .resized-image {
+    max-width: 100%; /* Responsive width */
+    height: auto;    /* Maintain aspect ratio */
+    width: 80%;      /* Adjust the percentage as needed */
+  }

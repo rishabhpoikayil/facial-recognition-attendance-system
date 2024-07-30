@@ -14,7 +14,7 @@ orjson==3.10.6
 typing_extensions==4.12.2
 
 # I've commented out the other ones below as I wouldn't want anyone to have to install them unless necessary.
-# But feel free to install them if you wish or if there's something missing that is actually required.
+# But feel free to install them if you wish or if there's something missing from above that is actually required.
 
 # absl-py==2.1.0
 # annotated-types==0.7.0

@@ -23,13 +23,13 @@ The Facial Recognition Attendance System is a web application designed to manage
 
 - **backend/**: Contains the FastAPI backend code.
   - `main.py`: Main entry point for the backend application.
+  - `requirements.txt`: Dependencies for the backend.
 
 - **frontend/**: Contains the React frontend code.
   - **public/**: Static assets and HTML file.
   - **src/**: React components and application logic.
   - `package.json` & `package-lock.json`: Dependencies and scripts for the frontend.
-    
-- `requirements.txt`: Dependencies for the backend.
+
 
 ## Running Locally
 

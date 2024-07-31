@@ -1,5 +1,5 @@
 import React from 'react';
-import './Pic.css'; // Import the CSS file
+import './Pic.css';
 
 const Pic = () => {
   return (
